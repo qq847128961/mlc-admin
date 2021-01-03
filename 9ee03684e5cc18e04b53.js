@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{261:function(t,e,n){"use strict";n.r(e);var l={},c=n(26),component=Object(c.a)(l,(function(){var t=this.$createElement;return(this._self._c||t)("div",{staticClass:"page-admin-user-detail"},[this._v("用户详情")])}),[],!1,null,null,null);e.default=component.exports}}]);
